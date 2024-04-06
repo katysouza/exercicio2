@@ -1,0 +1,11 @@
+solicitar o usuario a entrada do numero
+lê o numero do usuario
+iniciar o loop do while, que continua ate o numero chegar em zero
+se o numero for maior que zero continuar o loop
+quando chegar em zero imprimir o lista dos numero do numero do usuario ate o zero.
+
+Entrada de Ddos:
+numero solicidtado pelo usuario
+
+Saida de Daos:
+A lista de numero solicitado pelo uduario ate o zero.

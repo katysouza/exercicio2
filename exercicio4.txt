@@ -1,0 +1,39 @@
+o programa pede para o usuario digitar um numero ou sair para parar o programa 
+em seguida usuario insere um numero desejado
+o programa lê o numero
+o programa deve verificar se é um numero positivo
+se for positivo 
+em seguida começa o os calculos para a criação da tabuada 
+se não for positivo pedir novamente ao usuario um numero positivo
+o programa exibe a tabuada do numero solicitado 
+o programa entra em loop pedido um novo numero para o usuario se o usuario adicionar um novo
+e faz a verificação novamente se é um numero positivo
+se o usuario escrever sair 
+o programa finaliza
+
+
+
+
+
+programa pede para o usuario um numero inteiro e positivo 
+o programa lê o numero solicidtado
+o programa faz a comparação se o numero digitado for inteiro e positivo
+se não for, pedi para o usuario digitar um numero valido
+se o progarama entra em loop while para fazer o fatotial do numero solicitado
+o programa exibe a fatoração 
+e pergunta para o usuario se ele deseja continuar 
+se sim ele continaur a execução 
+se não o programa finaliza
+
+
+
+
+
+
+exibir um numero aleatorio escolhido pelo programa entre 1 a 100.
+o programa pede para o usuario da sua sugestão de qual o numero certo
+se o numero for positivo e estiver entre 1 a 100, ir para os proximos passos
+se não for positivo e não está etre 1 a 100
+pedi para o usuario digitar o numero novamente
+programa exibir dicas como o numero é menor ou maior, até o usuario acerta
+se o usuario acertar finalizar o programa
